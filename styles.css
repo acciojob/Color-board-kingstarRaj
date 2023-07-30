@@ -9,6 +9,7 @@
 
 .square{
     border: 1px solid gray;
+	background-color:rgb(29, 29, 29);
 }
 
 .square:hover{
